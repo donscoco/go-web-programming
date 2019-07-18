@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35c8d066-3606-4f08-8b9b-72256f229f37" name="Default Changelist" comment="" />
+    <list default="true" id="35c8d066-3606-4f08-8b9b-72256f229f37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chitchat/.idea/chitchat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/main/route_auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/main/route_main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/public/js/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/login.layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/new.thread.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/private.navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/private.thread.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/public.navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/public.thread.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chitchat/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storingdata/c1_map_store/store.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storingdata/c2_read_write_file/rwfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storingdata/c3_csv_store/posts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storingdata/c3_csv_store/store.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storingdata/c5_sql_store1/setup.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storingdata/c5_sql_store1/store.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storingdata/c6_sql_store/setup.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storingdata/c6_sql_store/store.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_service/c12_json_marshal/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_service/c1_xml_encoder/xml.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chitchat/chitchat" beforeDir="false" afterPath="$PROJECT_DIR$/chitchat/chitchat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chitchat/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/chitchat/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chitchat/route_auth.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chitchat/route_main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chitchat/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/chitchat/main/util.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,101 +52,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_web/server.go">
+        <entry file="file://$PROJECT_DIR$/storingdata/c6_sql_store/setup.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="336">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chitchat/main.go">
+        <entry file="file://$PROJECT_DIR$/storingdata/c6_sql_store/store.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="56">
+              <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
               <folding>
-                <element signature="e#14#44#0" expanded="true" />
+                <element signature="e#14#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chitchat/route_main.go">
+        <entry file="file://$PROJECT_DIR$/web_service/c1_xml_encoder/xml.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="432">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding>
-                <element signature="e#14#100#0" expanded="true" />
+                <element signature="e#14#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_service/c11_json_encoder/json.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#14#36#0" expanded="true" />
+                <element signature="e#441#752#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chitchat/data/thread.go">
+        <entry file="file://$PROJECT_DIR$/web_service/c12_json_marshal/json.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chitchat/data/data.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="422">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
               <folding>
-                <element signature="e#14#47#0" expanded="true" />
+                <element signature="e#14#70#0" expanded="true" />
+                <element signature="e#403#714#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chitchat/route_auth.go">
+        <entry file="file://$PROJECT_DIR$/web_service/c12_json_marshal/post.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chitchat/util.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-              <folding>
-                <element signature="e#14#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/web_service/c11_json_encoder/post.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../gopath/src/github.com/json-iterator/go/config.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/web_service/c1_xml_encoder/post.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chitchat/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chitchat/public/index.jpeg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -113,12 +144,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go Application" />
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
   <component name="GOROOT" path="$PROJECT_DIR$/../../go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -128,12 +162,26 @@
         <option value="$PROJECT_DIR$/first_web/server.go" />
         <option value="$PROJECT_DIR$/chitchat/public/hello.txt" />
         <option value="$PROJECT_DIR$/chitchat/config.json" />
-        <option value="$PROJECT_DIR$/chitchat/route_auth.go" />
-        <option value="$PROJECT_DIR$/chitchat/main.go" />
-        <option value="$PROJECT_DIR$/chitchat/util.go" />
-        <option value="$PROJECT_DIR$/chitchat/route_main.go" />
         <option value="$PROJECT_DIR$/chitchat/data/data.go" />
         <option value="$PROJECT_DIR$/chitchat/data/thread.go" />
+        <option value="$PROJECT_DIR$/chitchat/route_main.go" />
+        <option value="$PROJECT_DIR$/chitchat/util.go" />
+        <option value="$PROJECT_DIR$/../../gopath/src/github.com/sausheong/gwp/Chapter_2_Go_ChitChat/chitchat/data/user.go" />
+        <option value="$PROJECT_DIR$/chitchat/route_auth.go" />
+        <option value="$PROJECT_DIR$/chitchat/main.go" />
+        <option value="$PROJECT_DIR$/storingdata/csv_store/main.store.go" />
+        <option value="$PROJECT_DIR$/storingdata/map_store/store.go" />
+        <option value="$PROJECT_DIR$/storingdata/csv_store/store.go" />
+        <option value="$PROJECT_DIR$/storingdata/gob_store/store.go" />
+        <option value="$PROJECT_DIR$/storingdata/read_write_file/rwfile.go" />
+        <option value="$PROJECT_DIR$/storingdata/c5_sql_store1/store.go" />
+        <option value="$PROJECT_DIR$/storingdata/c5_sql_store1/setup.sql" />
+        <option value="$PROJECT_DIR$/storingdata/c6_sql_store/store.go" />
+        <option value="$PROJECT_DIR$/web_service/c1_xml_encoder.go" />
+        <option value="$PROJECT_DIR$/web_service/c1_xml_encoder/c1_xml_encoder.go" />
+        <option value="$PROJECT_DIR$/web_service/c1_xml_encoder/xml.go" />
+        <option value="$PROJECT_DIR$/web_service/c11_json_encoder/json.go" />
+        <option value="$PROJECT_DIR$/web_service/c12_json_marshal/json.go" />
       </list>
     </option>
   </component>
@@ -143,12 +191,12 @@
     <option name="width" value="735" />
     <option name="height" value="604" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,44 +204,35 @@
               <item name="go-web-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-web-programming" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="go-web-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-web-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="chitchat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-web-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-web-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="chitchat" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-web-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-web-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="first_web" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gopath/src/github.com/sausheong/gwp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storingdata/c6_sql_store" />
+      <recent name="$PROJECT_DIR$/storingdata/c5_sql_store1" />
+      <recent name="$PROJECT_DIR$/chitchat" />
       <recent name="$PROJECT_DIR$/chitchat/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_service/c1_xml_encoder" />
+      <recent name="$PROJECT_DIR$/chitchat/main" />
       <recent name="$PROJECT_DIR$/first_web" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -210,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build json.go (1)">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="go-web-programming" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -218,25 +257,39 @@
       <kind value="FILE" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build json.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-programming" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/chitchat/main.go" />
+      <filePath value="$PROJECT_DIR$/web_service/c12_json_marshal/json.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build json.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-programming" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch01/server.go" />
+      <filePath value="$PROJECT_DIR$/web_service/c11_json_encoder/json.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build store.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-programming" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/test.go" />
+      <filePath value="$PROJECT_DIR$/storingdata/c5_sql_store1/store.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build store.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-web-programming" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/storingdata/c6_sql_store/store.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build xml.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-web-programming" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/web_service/c1_xml_encoder/xml.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -247,31 +300,50 @@
       <kind value="DIRECTORY" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go Build.go build store.go (3)" />
+      <item itemvalue="Go Build.go build store.go (4)" />
+      <item itemvalue="Go Build.go build xml.go" />
+      <item itemvalue="Go Build.go build json.go" />
+      <item itemvalue="Go Build.go build json.go (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build server.go" />
-        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build json.go (1)" />
+        <item itemvalue="Go Build.go build json.go" />
+        <item itemvalue="Go Build.go build xml.go" />
+        <item itemvalue="Go Build.go build store.go (4)" />
+        <item itemvalue="Go Build.go build store.go (3)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26091763" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27086788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2679875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2675026" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3388947" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33960292" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -282,29 +354,120 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/chitchat/main/route_auth.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/storingdata/c5_sql_store1/store.go</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.go" />
-    <entry file="file://$PROJECT_DIR$/../../go/src/net/http/server.go">
+    <entry file="file://$PROJECT_DIR$/chitchat/data/data.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="2023" column="21" lean-forward="true" selection-start-line="2023" selection-start-column="21" selection-end-line="2023" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#14#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chitchat/public/hello.txt">
+    <entry file="file://$PROJECT_DIR$/../../gopath/src/github.com/json-iterator/go/config.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="624">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chitchat/public/index.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../gopath/src/github.com/json-iterator/go/config.go">
+    <entry file="file://$PROJECT_DIR$/../../go/src/net/http/server.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="272">
+          <caret line="2480" lean-forward="true" selection-start-line="2480" selection-end-line="2480" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/templates/error.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/html/template/template.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="281" column="5" selection-start-line="281" selection-start-column="5" selection-end-line="281" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/chitchat.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/main/route_main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/public/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/data/thread.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/main/route_auth.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gopath/src/github.com/sausheong/gwp/Chapter_2_Go_ChitChat/chitchat/data/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chitchat/main/util.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -315,64 +478,258 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first_web/server.go">
+    <entry file="file://$PROJECT_DIR$/../../go/src/os/file_unix.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="223">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chitchat/main.go">
+    <entry file="file://$PROJECT_DIR$/../../go/src/os/types.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="-545">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/encoding/csv/reader.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storingdata/c3_csv_store/store.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/strconv/atoi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="155" column="5" selection-start-line="155" selection-start-column="5" selection-end-line="155" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storingdata/c3_csv_store/posts.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/bytes/buffer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2304">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#219#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/os/file.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="103" column="15" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storingdata/c2_read_write_file/rwfile.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
             <element signature="e#14#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chitchat/util.go">
+    <entry file="file://$PROJECT_DIR$/storingdata/c2_read_write_file/data2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storingdata/c2_read_write_file/data1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storingdata/c1_map_store/store.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        <state relative-caret-position="576">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="273" column="5" selection-start-line="273" selection-start-column="5" selection-end-line="273" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3221">
+          <caret line="221" column="11" selection-start-line="221" selection-start-column="11" selection-end-line="221" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/database/sql/driver/driver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="195" column="5" selection-start-line="195" selection-start-column="5" selection-end-line="195" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storingdata/c4_gob_store/store.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-538">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="1" />
           <folding>
-            <element signature="e#14#30#0" expanded="true" />
+            <element signature="e#14#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chitchat/route_auth.go">
+    <entry file="file://$PROJECT_DIR$/../../go/src/database/sql/sql.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="215">
+          <caret line="1605" column="14" selection-start-line="1605" selection-start-column="14" selection-end-line="1605" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chitchat/data/data.go">
+    <entry file="file://$PROJECT_DIR$/storingdata/c5_sql_store1/setup.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storingdata/c5_sql_store1/store.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="26" selection-end-column="35" />
           <folding>
             <element signature="e#14#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chitchat/route_main.go">
+    <entry file="file://$PROJECT_DIR$/storingdata/c6_sql_store/setup.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="336">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storingdata/c6_sql_store/store.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
           <folding>
-            <element signature="e#14#100#0" expanded="true" />
+            <element signature="e#14#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chitchat/data/thread.go">
+    <entry file="file://$PROJECT_DIR$/web_service/c1_xml_encoder/post.xm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_service/c1_xml_encoder/post.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/encoding/xml/marshal.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="223">
+          <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/encoding/json/stream.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="194" column="20" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_service/c1_xml_encoder/xml.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_service/c11_json_encoder/post.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_service/c11_json_encoder/json.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+            <element signature="e#441#752#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_service/c12_json_marshal/post.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go/src/io/ioutil/ioutil.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../gopath/src/github.com/json-iterator/go/adapter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_service/c12_json_marshal/json.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#70#0" expanded="true" />
+            <element signature="e#403#714#0" />
+          </folding>
         </state>
       </provider>
     </entry>
